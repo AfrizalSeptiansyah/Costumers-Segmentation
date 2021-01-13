@@ -1,2 +1,2 @@
 # Costumers-Segmentation-with-KMeans
-Informasi lengkap terhadap dataset dapat diakses pada link berikut : https://archive.ics.uci.edu/ml/datasets/wholesale+customers
+For more information about dataset please click here : https://archive.ics.uci.edu/ml/datasets/wholesale+customers
