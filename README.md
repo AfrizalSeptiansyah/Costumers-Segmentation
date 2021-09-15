@@ -24,3 +24,5 @@ Cluster 2: customers who like to shop Fresh and quite like Frozen and Delicassen
 ## Visualization of Clustering Results with T-SNE
 
 ![tsne](https://github.com/AfrizalSeptiansyah/Costumers-Segmentation/blob/main/asset/tsne.png?raw=true)
+
+Thank you for reading :)
