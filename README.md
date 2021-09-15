@@ -9,9 +9,9 @@ I Use the k-means algorithm to cluster customers into several segments, based on
 
 ## Determine The Number of Clusters
 
-I use elbow method to determine the number of clusters and perform training. 
+I use elbow method to determine the number of clusters is 3 and perform training. 
 
-gambar 
+![elbow](https://github.com/AfrizalSeptiansyah/Costumers-Segmentation/blob/main/asset/elbow.png?raw=true)
 
 ## Interpretation of Clustering Results
 
@@ -19,10 +19,8 @@ Cluster 0 : customers who like shopping for Milk, Grocery and Detergents_Paper. 
 Cluster 1: thrifty customers. <br>
 Cluster 2: customers who like to shop Fresh and quite like Frozen and Delicassen. <br>
 
-gambar 
+![interpretasi](https://github.com/AfrizalSeptiansyah/Costumers-Segmentation/blob/main/asset/paralel.png?raw=true)
 
 ## Visualization of Clustering Results with T-SNE
 
-gambar 
-
-
+![tsne](https://github.com/AfrizalSeptiansyah/Costumers-Segmentation/blob/main/asset/tsne.png?raw=true)
